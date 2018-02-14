@@ -1,0 +1,6 @@
+# Folders to Ignore:
+__pycache__/
+
+# Files to Ignore:
+.DS_Store
+
